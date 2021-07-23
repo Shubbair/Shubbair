@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with made myself strong as stone 🦾
 - :school_satchel: study : graduated 2020 UOK computer science
 - 💬 Ask me about anything tech, design
-- 📫 How to reach me: hussainsalih.github@gmail.com
-- :file_folder: my UI/UX profile : https://dribbble.com/Shubbair
+- 📫 How to reach me: [here](hussainsalih.github@gmail.com)
+- :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
 - ⚡ Fun fact: the time is the only real unit measure.
