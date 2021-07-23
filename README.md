@@ -1,6 +1,6 @@
 ### Hello world from computer sound 👋
 
-(https://www.azquotes.com/quote/417027)
+![name-of-you-image](mary.jpg)
 
 - 🔭 I’m currently working on vue.js
 - 🌱 I’m currently learning UX design
