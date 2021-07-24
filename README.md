@@ -1,6 +1,6 @@
 ### Hello world from computer sound :wave:
 
-![name-of-you-image](mary.jpg)
+![name-of-you-image](home.jpg)
 
 - 🔭 I’m currently working on consciousness 🤖
 - 🌱 I’m currently learning UX design
