@@ -1,6 +1,7 @@
 ### Hello world from computer sound :wave:
 
-![name-of-you-image](mary.jpg)
+![Me](home.png)
+
 
 - 🔭 I’m currently working on consciousness 🤖
 - 🌱 I’m currently learning UX design
@@ -11,3 +12,5 @@
 - 📫 How to reach me: [here](hussainsalih.github@gmail.com)
 - :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
 - ⚡ Fun fact: the time is the only real unit measure.
+
+![Mary Shelly](mary.jpg)
