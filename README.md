@@ -3,7 +3,10 @@
 <!-- ![Me](home.png)
  -->
  
- ![Mary Shelly](mary.jpg)
+<!--  ![Mary Shelly](mary2.jpg) -->
+<p align= "center">
+ <img width="96%" src="mary2.jpg" />
+</p>
 
 - 🔭 I’m currently working on consciousness 🤖
 - 🌱 I’m currently learning UX design
