@@ -4,10 +4,10 @@
  -->
  
 <!--  ![Mary Shelly](mary2.jpg) -->
-<!-- <p align= "center">
+<p align= "center">
  <img width="96%" src="mary2.jpg" />
 </p>
- -->
+
 - 🔭 I’m currently working on consciousness 🤖
 - 🌱 I’m currently learning UX design
 - 👯 I’m looking to collaborate on making the world better
@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=radical)](https://github.com/Shubbair/github-readme-stats) -->
  
-<!-- <p align= "center">
+<p align= "center">
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&theme=radical" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubbair&theme=radical" />
 <p/>
@@ -32,4 +32,4 @@
    <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=radical" />
  </a>
 </p>
- -->
+
