@@ -1,7 +1,9 @@
 ### Hello world from computer sound :wave:
 
-![Me](home.png)
-
+<!-- ![Me](home.png)
+ -->
+ 
+ ![Mary Shelly](mary.jpg)
 
 - 🔭 I’m currently working on consciousness 🤖
 - 🌱 I’m currently learning UX design
@@ -13,8 +15,7 @@
 - :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
 - ⚡ Fun fact: the time is the only real unit measure.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&bg_color=#000000)](https://github.com/Shubbair/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=radical)](https://github.com/Shubbair/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair)](https://github.com/Shubbair/github-readme-stats)
-
-![Mary Shelly](mary.jpg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=radical)](https://github.com/Shubbair/github-readme-stats)
+ 
