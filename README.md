@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=radical)](https://github.com/Shubbair/github-readme-stats) -->
  
 <p align= "center">
- <img width="96%" src="hmg.svg" />
+ <img width="96%" src="hmg.png" />
 </p>
 
 <p align= "center">
