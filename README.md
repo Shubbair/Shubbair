@@ -30,6 +30,5 @@
 <p align= "center">
  <a href="https://github.com/anuraghazra/Shubbair">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=radical" />
-<!--    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=radical"> -->
  </a>
 </p>
