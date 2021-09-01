@@ -1,9 +1,5 @@
 ### Hello world from computer sound :wave:
 
-<!-- ![Me](home.png)
- -->
- 
-<!--  ![Mary Shelly](mary2.jpg) -->
 <p align= "center">
  <img width="96%" src="mary2.jpg" />
 </p>
