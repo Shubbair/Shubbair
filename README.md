@@ -4,7 +4,7 @@
  <img width="96%" src="mary2.jpg" />
 </p>
 
-- 🔭 I’m currently working on consciousness 🤖
+- 🔭 I’m currently working and searching for consciousness 🤖
 - 🌱 I’m currently learning UX design
 - 👯 I’m looking to collaborate on making the world better
 - 🤔 I’m looking for help with made myself strong as stone 🦾
