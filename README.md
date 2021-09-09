@@ -17,6 +17,9 @@
 <p align= "center">
  <img width="96%" src="hmg.png" />
 </p>
+<p align= "center">
+ <img width="96%" src="home.png" />
+</p>
 
 <p align= "center">
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=radical" />
