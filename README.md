@@ -18,7 +18,7 @@
  <img width="96%" src="hmg.png" />
 </p>
 <p align= "center">
- <img width="96%" src="home.png" />
+ <img width="96%" src="home_2.png" />
 </p>
 
 <p align= "center">
