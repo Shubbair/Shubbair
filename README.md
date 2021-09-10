@@ -13,13 +13,14 @@
 - 📫 How to reach me: [here](hussainsalih.github@gmail.com)
 - :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
 - ⚡ Fun fact: the time is the only real unit measure.
- 
-<p align= "center">
- <img width="96%" src="hmg.png" />
-</p>
+
 <p align= "center">
  <img width="96%" src="home_2.png" />
 </p>
+<p align= "center">
+ <img width="96%" src="hmg.png" />
+</p>
+
 
 <p align= "center">
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=radical" />
