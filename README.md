@@ -3,7 +3,7 @@
 <p align= "center">
  <img align="right" height="300px" width="250" src="Mary.png" />
 </p>
-<br>
+</br>
 
 - 🔭 I’m currently working and searching for consciousness 🤖
 - 🌱 I’m currently learning UX design
@@ -16,9 +16,12 @@
 - ⚡ Fun fact: the time is the only real unit measure.
 
 ### Talk with me :
-Linkedin , twitter , telegram
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="twitter.svg" />][twitter]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="telegram.svg" />][telegram]
+</br>
 
-<br>
+</br>
 <p align= "center">
  <img width="96%" src="hmg.png" />
 </p>
@@ -37,3 +40,7 @@ Linkedin , twitter , telegram
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=radical" />
  </a>
 </p>
+
+[telegram]: https://t.me/HussainSalih_itp
+[linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
+[twitter]: https://twitter.com/Shubbair
