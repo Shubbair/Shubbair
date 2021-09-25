@@ -1,7 +1,7 @@
 ### Hello world from computer sound :wave:
 
 <p align= "center">
- <img width="96%" src="mary2.jpg" />
+ <img align="right" width="350px" src="mary2.jpg" />
 </p>
 
 - 🔭 I’m currently working and searching for consciousness 🤖
@@ -13,6 +13,9 @@
 - 📫 How to reach me: [here](hussainsalih.github@gmail.com)
 - :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
 - ⚡ Fun fact: the time is the only real unit measure.
+
+### Talk with me :
+
 
 <p align= "center">
  <img width="96%" src="hmg.png" />
