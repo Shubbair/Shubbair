@@ -1,7 +1,7 @@
 ### Hello world from computer sound :wave:
 
 <p align= "center">
- <img align="right" height="300px" width="250" src="Mary.png" />
+ <img align="right" height="300px" width="250" src="Mary2.png" />
 </p>
 <br>
 
