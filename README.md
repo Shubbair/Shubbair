@@ -1,8 +1,9 @@
 ### Hello world from computer sound :wave:
 
 <p align= "center">
- <img align="right" width="350px" src="mary2.jpg" />
+ <img align="right" height="300px" width="250" src="Mary.png" />
 </p>
+<br>
 
 - 🔭 I’m currently working and searching for consciousness 🤖
 - 🌱 I’m currently learning UX design
@@ -10,13 +11,14 @@
 - 🤔 I’m looking for help with made myself strong as stone 🦾
 - :school_satchel: study : graduated 2020 UOK computer science
 - 💬 Ask me about anything tech, design
-- 📫 How to reach me: [here](hussainsalih.github@gmail.com)
+- 📫 How to reach me: [here](mailto:hussainsalih.github@gmail.com)
 - :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
 - ⚡ Fun fact: the time is the only real unit measure.
 
 ### Talk with me :
+Linkedin , twitter , telegram
 
-
+<br>
 <p align= "center">
  <img width="96%" src="hmg.png" />
 </p>
