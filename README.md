@@ -27,7 +27,7 @@
 </p>
 
 <p align= "center">
- <img width="96%" src="home_2.png" />
+ <img width="96%" src="home.png" />
 </p>
 
 <p align= "center">
