@@ -23,7 +23,7 @@
 
 </br>
 <p align= "center">
- <img width="96%" src="hmg.png" />
+ <img width="96%" src="hmg.svg" />
 </p>
 
 <p align= "center">
