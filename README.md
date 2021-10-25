@@ -1,4 +1,14 @@
-### Hello world from computer sound :wave:
+<p align="center">
+ <b align="center"><samp>Hello world from computer sound :wave:<samp></b>
+</p>
+
+<p align="center">
+ <h1 align="center">Hussain Salih Mahdi</h1>
+</p>
+
+<p align="center">
+<h4 align="center"><samp>AI Developer , Designer</samp></h4>
+</p>
 
 <p align= "center">
  <img align="right" height="300px" width="250" src="Mary.png" />
@@ -30,6 +40,11 @@
  <img width="96%" src="homes.png" />
 </p>
 
+##
+
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+ <br>
 <p align= "center">
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=radical" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubbair&theme=radical" />
@@ -41,6 +56,8 @@
  </a>
 </p>
 
+ </details>
+ 
 [telegram]: https://t.me/HussainSalih_itp
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
