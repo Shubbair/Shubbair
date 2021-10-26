@@ -42,7 +42,7 @@
 
 ##
 
-<details>
+<!-- <details> -->
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
  <br>
 <p align= "center">
@@ -56,8 +56,8 @@
  </a>
 </p>
 
- </details>
- 
+<!--  </details>
+  -->
 [telegram]: https://t.me/HussainSalih_itp
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
