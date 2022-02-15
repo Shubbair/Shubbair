@@ -46,13 +46,13 @@
   <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
  <br>
 <p align= "center">
-<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubbair&theme=radical" />
+<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=locale" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubbair&theme=locale" />
 <p/>
 
 <p align= "center">
  <a href="https://github.com/anuraghazra/Shubbair">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=radical" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=locale" />
  </a>
 </p>
 
