@@ -1,4 +1,10 @@
 <p align="center">
+  [<img align="center" alt="holisitc_developer | Cooffee" width="100px" src="coffee.svg" />][cooffee]
+</p>
+
+[cooffee]: https://www.buymeacoffee.com/Shubbair
+
+<p align="center">
  <b align="center"><samp>Hello world from computer sound :wave:<samp></b>
 </p>
 
@@ -25,6 +31,8 @@
 - :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
 - ⚡ Fun fact: the time is the only real unit measure.
 
+<br>
+
 ### Talk with me :
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="twitter.svg" />][twitter]
@@ -43,7 +51,6 @@
 ##
 
 <!-- <details> -->
-  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
  <br>
 <p align= "center">
 <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=locale" />
@@ -61,8 +68,3 @@
 [telegram]: https://t.me/HussainSalih_itp
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
-
-[<img align="center" alt="holisitc_developer | Cooffee" width="30px" src="coffee.svg" />][cooffee]
-
-
-[cooffee]: https://www.buymeacoffee.com/Shubbair
