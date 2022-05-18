@@ -29,7 +29,7 @@
 </br>
 
 - 🔭 I’m currently working and searching for consciousness 🤖
-- 🌱 I’m currently learning UX design
+- 🌱 I’m currently learning data sciense and neuron sciense
 - 👯 I’m looking to collaborate on making the world better
 - 🤔 I’m looking for help with made myself strong as stone 🦾
 - :school_satchel: study : graduated 2020 UOK computer science
