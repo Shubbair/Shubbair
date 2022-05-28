@@ -45,12 +45,18 @@
 <p align= "center">
  <img width="96%" src="hmg.svg" />
 </p>
+
+## Skills : 
+
+<p align= "center">
+ <img width="96%" src="skill.svg" />
+</p>
+
 <!-- 
 <p align= "center">
  <img width="96%" src="homes.png" />
 </p> -->
 
-##
 
 <!-- <details> -->
  <br>
