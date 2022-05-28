@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<h4 align="center"><samp>AI Developer , Designer</samp></h4>
+<h4 align="center"><samp>Data Scientist ,Machine Learning , AI Developer</samp></h4>
 </p>
 
 <p align= "center">
@@ -35,17 +35,17 @@
 - :school_satchel: study : graduated 2020 UOK computer science
 - 💬 Ask me about anything tech, design
 - 📫 How to reach me: [here](mailto:hussainsalih.github@gmail.com)
-- :file_folder: my UI/UX profile : [here](https://dribbble.com/Shubbair)
+- :file_folder: my Linkedin profile : [here](https://www.linkedin.com/in/hussain-salih-b0a076178/)
 - ⚡ Fun fact: the time is the only real unit measure.
 
 </br>
 <p align= "center">
  <img width="96%" src="hmg.svg" />
 </p>
-
+<!-- 
 <p align= "center">
  <img width="96%" src="homes.png" />
-</p>
+</p> -->
 
 ##
 
