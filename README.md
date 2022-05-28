@@ -49,7 +49,7 @@
 # Skills : 
 
 <p align= "center">
- <img width="40%" src="skill.png" />
+ <img width="40%" src="skill1.png" />
 </p>
 
 
