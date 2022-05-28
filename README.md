@@ -46,10 +46,17 @@
  <img width="96%" src="hmg.svg" />
 </p>
 
-## Skills : 
+<!-- # Skills : 
 
 <p align= "center">
- <img width="96%" src="skill.svg" />
+ <img width="40%" src="skill.png" />
+</p> -->
+
+
+# Github Status : 
+
+<p align= "center">
+ <img width="80%" src="github.png" />
 </p>
 
 <!-- 
