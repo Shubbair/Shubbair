@@ -39,6 +39,9 @@
 - ⚡ Fun fact: the time is the only real unit measure.
 
 </br>
+</br>
+</br></br>
+
 <p align= "center">
  <img width="96%" src="hmg.svg" />
 </p>
