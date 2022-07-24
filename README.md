@@ -2,11 +2,12 @@
 [telegram]: https://t.me/HussainSalih_itp
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
+[kaggle] : https://www.kaggle.com/hussainsalih
 
 [<img align="center" alt="holisitc_developer | Cooffee" width="100px" src="coffee.svg" />][cooffee]
 
 [<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="linkedin.svg" />][linkedin]
-<img align="right" alt="holisitc_developer | Kaggle" width="40px" src="kaggle-logo.svg" />
+[<img align="right" alt="holisitc_developer | Kaggle" width="40px" src="kaggle-logo.svg" />][kaggle]
 [<img align="right" alt="holisitc_developer | Twitter" width="40px" src="twitter.svg" />][twitter]
 [<img align="right" alt="holisitc_developer | Telegram" width="40px" src="telegram.svg" />][telegram]
 
