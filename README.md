@@ -6,6 +6,7 @@
 [<img align="center" alt="holisitc_developer | Cooffee" width="100px" src="coffee.svg" />][cooffee]
 
 [<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="linkedin.svg" />][linkedin]
+[<img align="right" alt="holisitc_developer | LinkedIn" width="22px" src="kaggle.svg" />][Kaggle]
 [<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="twitter.svg" />][twitter]
 [<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="telegram.svg" />][telegram]
 
