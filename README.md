@@ -6,10 +6,10 @@
 
 [<img align="center" alt="holisitc_developer | Cooffee" width="100px" src="coffee.svg" />][cooffee]
 
-[<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="linkedin.svg" />][linkedin]
-[<img align="right" alt="holisitc_developer | Kaggle" width="40px" src="kaggle-logo.svg" />][kaggle]
-[<img align="right" alt="holisitc_developer | Twitter" width="40px" src="twitter.svg" />][twitter]
-[<img align="right" alt="holisitc_developer | Telegram" width="40px" src="telegram.svg" />][telegram]
+[<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
+[<img align="right" alt="holisitc_developer | Kaggle" width="22px" src="social-images/k-logo.svg" />][kaggle]
+[<img align="right" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
+[<img align="right" alt="holisitc_developer | Telegram" width="40px" src="social-images/t-logo.png" />][telegram]
 
 <br>
 </br>
