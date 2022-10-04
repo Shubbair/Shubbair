@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<h4 align="center"><samp>Data Scientist ,Machine Learning , AI Developer</samp></h4>
+<h4 align="center"><samp>Data Scientist , TensorFlow Developer</samp></h4>
 </p>
 
 <p align= "center">
