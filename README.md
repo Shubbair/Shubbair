@@ -45,7 +45,7 @@
 </br></br>
 
 <p align= "center">
- <img width="96%" src="hmg.svg" />
+ <img width="96%" src="hmgi.png" />
 </p>
 
 # Skills : 
