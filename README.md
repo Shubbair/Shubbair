@@ -48,6 +48,10 @@
  <img width="96%" src="hmgi.png" />
 </p>
 
+<p align= "center">
+ <img width="96%" src="TFbadge.jpg" />
+</p>
+
 # Skills : 
 
 <p align= "center">
