@@ -74,13 +74,13 @@
 <!-- <details> -->
  <br>
 <p align= "center">
-<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=locale" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubbair&theme=locale" />
+<img width="48%" src= "https://github-readme-stats.vercel.app/api?username=Shubbair&show_icons=true&theme=dark" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubbair&theme=dark" />
 <p/>
 
 <p align= "center">
  <a href="https://github.com/anuraghazra/Shubbair">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=locale" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubbair&layout=compact&theme=dark" />
  </a>
 </p>
 
