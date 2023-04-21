@@ -26,7 +26,7 @@
 </p>
 
 <p align= "center">
- <img align="right" height="300px" width="250" src="Mary.png" />
+ <img align="right" height="200px" width="180" src="Mary.png" />
 </p>
 </br>
 
