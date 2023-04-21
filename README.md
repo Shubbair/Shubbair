@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<h4 align="center"><samp>Data Scientist , TensorFlow Developer</samp></h4>
+<h4 align="center"><samp>Data Scientist , Machine Learning Enginner</samp></h4>
 </p>
 
 <p align= "center">
@@ -31,14 +31,10 @@
 </br>
 
 - 🔭 I’m currently working and searching for consciousness 🤖
-- 🌱 I’m currently learning data sciense and neuron sciense
-- 👯 I’m looking to collaborate on making the world better
-- 🤔 I’m looking for help with made myself strong as stone 🦾
-- :school_satchel: study : graduated 2020 UOK computer science
-- 💬 Ask me about anything tech, design
-- 📫 How to reach me: [here](mailto:hussainsalih.github@gmail.com)
+- :school_satchel: study : graduated 2020 UOK computer science w/GPA 3.24 ![](https://geps.dev/progress/81)
+- 📫 E-Mail : [here](mailto:hussainsalih.github@gmail.com)
 - :file_folder: my Linkedin profile : [here](https://www.linkedin.com/in/hussain-salih-b0a076178/)
-- ⚡ Fun fact: the time is the only real unit measure.
+- ⚡ Fun fact: The math are language created by brain to understand the world.
 
 </br>
 </br>
