@@ -25,20 +25,21 @@
 <h4 align="center"><samp>Data Scientist , Machine Learning Enginner</samp></h4>
 </p>
 
-<p align= "center">
- <img align="right" height="200px" width="180" src="Mary.png" />
-</p>
 </br>
 
 - 🔭 I’m currently working and searching for consciousness 🤖
-- :school_satchel: study : graduated 2020 UOK computer science w/GPA 3.24 ![](https://geps.dev/progress/81)
+- :school_satchel: study : graduated 2020 UOK computer science w/GPA 3.24  ![](https://geps.dev/progress/81)
 - 📫 E-Mail : [here](mailto:hussainsalih.github@gmail.com)
 - :file_folder: my Linkedin profile : [here](https://www.linkedin.com/in/hussain-salih-b0a076178/)
-- ⚡ Fun fact: The math are language created by brain to understand the world.
+- ⚡ : The math are language created by brain to understand the world.
 
 </br>
 </br>
 </br></br>
+
+<p align= "center">
+ <img height="400px" width="350" src="Mary.png" />
+</p>
 
 <p align= "center">
  <img width="96%" src="hmgi.png" />
@@ -60,11 +61,6 @@
 <p align= "center">
  <img width="80%" src="github.png" />
 </p>
-
-<!-- 
-<p align= "center">
- <img width="96%" src="homes.png" />
-</p> -->
 
 
 <!-- <details> -->
