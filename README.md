@@ -3,8 +3,11 @@
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
 [kaggle]: https://www.kaggle.com/hussainsalih
+[merch]: https://my-store-ee05ea.creator-spring.com
 
-[<img align="center" alt="holisitc_developer | Cooffee" width="100px" src="coffee.svg" />][cooffee]
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/shopping-cart.svg" />][merch]
+
 
 [<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
 [<img align="right" alt="holisitc_developer | Kaggle" width="22px" src="social-images/k-logo.svg" />][kaggle]
