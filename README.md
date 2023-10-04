@@ -3,11 +3,9 @@
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
 [kaggle]: https://www.kaggle.com/hussainsalih
-[merch]: https://my-store-ee05ea.creator-spring.com
+[here]: https://my-store-ee05ea.creator-spring.com
 
-
-[<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/shopping-cart.svg" />][merch]
-
+## Merch Market : [here]
 
 [<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
 [<img align="right" alt="holisitc_developer | Kaggle" width="22px" src="social-images/k-logo.svg" />][kaggle]
