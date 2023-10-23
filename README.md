@@ -5,12 +5,10 @@
 [kaggle]: https://www.kaggle.com/hussainsalih
 [here]: https://my-store-ee05ea.creator-spring.com
 
-## Merch Market : [here]
-
-[<img align="right" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
-[<img align="right" alt="holisitc_developer | Kaggle" width="22px" src="social-images/k-logo.svg" />][kaggle]
-[<img align="right" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
-[<img align="right" alt="holisitc_developer | Telegram" width="40px" src="social-images/t-logo.png" />][telegram]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | Kaggle" width="22px" src="social-images/k-logo.svg" />][kaggle]
+[<img align="left" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
+[<img align="left" alt="holisitc_developer | Telegram" width="40px" src="social-images/t-logo.png" />][telegram]
 
 <br>
 </br>
