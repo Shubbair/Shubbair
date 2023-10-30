@@ -5,6 +5,12 @@
 [kaggle]: https://www.kaggle.com/hussainsalih
 [here]: https://my-store-ee05ea.creator-spring.com
 
+<p align= "center">
+ <img width="96%" src="hmgi.png" />
+</p>
+
+<br></br>
+
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Kaggle" width="22px" src="social-images/k-logo.svg" />][kaggle]
 [<img align="left" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
@@ -36,13 +42,8 @@
 </br>
 </br></br>
 
-## For all Robots Haters 😁
 <p align= "center">
- <img height="400px" width="350" src="Mary.png" />
-</p>
-
-<p align= "center">
- <img width="96%" src="hmgi.png" />
+ <img width="32%" src="reachsci-silver-innovator.png" />
 </p>
 
 <p align= "center">
