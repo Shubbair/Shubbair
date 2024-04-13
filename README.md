@@ -5,6 +5,13 @@
 [kaggle]: https://www.kaggle.com/hussainsalih
 [here]: https://my-store-ee05ea.creator-spring.com
 
+<p align="center" style="background-color:#374252;">
+   Design by Kirokaze Pixel -> Behance
+</p>
+<div align= "center">
+<img src="anim.gif"/>
+</div>
+
 <p align= "center">
  <img width="96%" src="hmgi.png" />
 </p>
