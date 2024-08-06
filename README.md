@@ -1,46 +1,32 @@
-[cooffee]: https://www.buymeacoffee.com/Shubbair
 [telegram]: https://t.me/HussainSalih_itp
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
-[kaggle]: https://www.kaggle.com/hussainsalih
-[here]: https://my-store-ee05ea.creator-spring.com
-
-<p align="center" style="background-color:#374252;">
-   Design by Kirokaze Pixel -> Behance
-</p>
-<div align= "center">
-<img src="anim.gif"/>
-</div>
-
-<p align= "center">
- <img width="96%" src="hmgi.png" />
-</p>
-
-<br></br>
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Kaggle" width="22px" src="social-images/k-logo.svg" />][kaggle]
 [<img align="left" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | Telegram" width="40px" src="social-images/t-logo.png" />][telegram]
 
 <br>
-</br>
-<p align="center">
- <b align="center"><samp>Hello world from computer sound :wave:<samp></b>
+
+<p align= "center">
+ <img width="50%" src="hmgi.png" />
 </p>
+
+</br>
 
 <p align="center">
  <h1 align="center">Hussain Salih Mahdi</h1>
 </p>
 
 <p align="center">
-<h4 align="center"><samp>Data Scientist , Machine Learning Enginner</samp></h4>
+<h4 align="center"><samp>ML Enginner & Researcher</samp></h4>
 </p>
 
 </br>
 
-- 🔭 I’m currently working and searching for consciousness 🤖
-- :school_satchel: study : graduated 2020 UOK computer science w/GPA 3.24  ![](https://geps.dev/progress/81)
+- 🔭 love to search & work with AI models 🤖
+- :school_satchel: study : graduated 2020 UOK computer science w/GPA 3.24 , ![](https://geps.dev/progress/81)
+- Now : Studing Master of Computer Science
 - 📫 E-Mail : [here](mailto:hussainsalih.github@gmail.com)
 - :file_folder: my Linkedin profile : [here](https://www.linkedin.com/in/hussain-salih-b0a076178/)
 - ⚡ : The math are language created by brain to understand the world.
@@ -68,6 +54,3 @@
 
 <p align= "center">
  <img width="80%" src="github.png" />
-</p>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shubbair&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
