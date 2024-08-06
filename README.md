@@ -1,7 +1,3 @@
-[telegram]: https://t.me/HussainSalih_itp
-[linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
-[twitter]: https://twitter.com/Shubbair
-
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | Telegram" width="40px" src="social-images/t-logo.png" />][telegram]
@@ -12,7 +8,9 @@
  <img width="50%" src="hmgi.png" />
 </p>
 
-</br>
+[telegram]: https://t.me/HussainSalih_itp
+[linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
+[twitter]: https://twitter.com/Shubbair
 
 <p align="center">
  <h1 align="center">Hussain Salih Mahdi</h1>
