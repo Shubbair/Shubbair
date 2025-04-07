@@ -8,12 +8,12 @@
  <img width="50%" src="hmgi.png" />
 </p>
 
-[telegram]: https://t.me/HussainSalih_itp
+[telegram]: https://t.me/Shubbair8
 [linkedin]: https://www.linkedin.com/in/hussain-salih-b0a076178/
 [twitter]: https://twitter.com/Shubbair
 
 <p align="center">
- <h1 align="center">Hussain Salih Mahdi</h1>
+ <h1 align="center">Hussain Salih</h1>
 </p>
 
 <p align="center">
