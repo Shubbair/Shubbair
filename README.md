@@ -25,8 +25,8 @@
 - 🔭 love to search & work with AI models 🤖
 - :school_satchel: study : graduated 2020 UOK computer science w/GPA 3.24 , ![](https://geps.dev/progress/81)
 - Now : Studing Master of Computer Science
-- 📫 E-Mail : [here](mailto:hussainsalih.github@gmail.com)
-- :file_folder: my Linkedin profile : [here](https://www.linkedin.com/in/hussain-salih-b0a076178/)
+- Talk : 2022,2023,2024 Give talks with Google Developer Student in collge about AI
+- TedX : 2025 Speaks about AI Thinking & Reasoning
 - ⚡ : The math are language created by brain to understand the world.
 
 </br>
@@ -34,21 +34,9 @@
 </br></br>
 
 <p align= "center">
- <img width="32%" src="reachsci-silver-innovator.png" />
+ <img width="50%" src="TFbadge.jpg" />
 </p>
 
 <p align= "center">
- <img width="96%" src="TFbadge.jpg" />
+ <img width="20%" src="reachsci-silver-innovator.png" />
 </p>
-
-# Skills : 
-
-<p align= "center">
- <img width="40%" src="skill1.png" />
-</p>
-
-
-# Github Status : 
-
-<p align= "center">
- <img width="80%" src="github.png" />
