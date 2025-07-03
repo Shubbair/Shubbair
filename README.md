@@ -30,7 +30,7 @@
 - :school_satchel: study : graduated 2020 UOK computer science w/GPA 3.24 , ![](https://geps.dev/progress/81)
 - Now : Studing Master of Computer Science
 - Talk : 2022,2023,2024 Give talks with Google Developer Student in collge about AI
-- TedX : 2025 Speaks about AI Thinking & Reasoning
+- TedX : 2025 Speaks "`Will AI ever wake up?`" [Youtube](https://youtu.be/tKC_KFTBomw?si=xLZV537qihxujCrI)
 - ⚡ : The math are language created by brain to understand the world.
 
 </br>
