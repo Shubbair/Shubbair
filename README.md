@@ -1,6 +1,10 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=1&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | Telegram" width="40px" src="social-images/t-logo.png" />][telegram]
+
+
 
 <br>
 
@@ -33,10 +37,12 @@
 </br>
 </br></br>
 
-<p align= "center">
- <img width="50%" src="TFbadge.jpg" />
-</p>
+<div align="center">
+<span align= "left">
+ <img width="60%" src="TFbadge.jpg" />
+</span>
 
-<p align= "center">
+<span align= "right">
  <img width="20%" src="reachsci-silver-innovator.png" />
-</p>
+</span>
+</div>
