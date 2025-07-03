@@ -6,7 +6,7 @@
 
 
 
-<br>
+</br></br>
 
 <p align= "center">
  <img width="50%" src="hmgi.png" />
