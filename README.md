@@ -32,8 +32,6 @@
 - TedX : 2025 Speaks "`Will AI ever wake up?`" [Youtube](https://youtu.be/tKC_KFTBomw?si=xLZV537qihxujCrI)
 
 </br>
-</br>
-</br></br>
 
 <div align="center">
 <span align= "left">
