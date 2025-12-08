@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<h4 align="center"><samp>ML Enginner & Researcher</samp></h4>
+<h4 align="center"><samp>AI Research Engineer</samp></h4>
 </p>
 
 </br>
