@@ -26,8 +26,8 @@
 
 - 🔭 Research and Implements AI Models 🤖
 - :school_satchel: study : Master of Computer Science
-- Talk : 2022,2023,2024 Give talks with Google Developer Student in collge about AI
-- TedX : 2025 Speaks "`Will AI ever wake up?`" [Youtube](https://youtu.be/tKC_KFTBomw?si=xLZV537qihxujCrI)
+- Tech Talk : 2022,2023,2024 Give talks with Google Developer Student in collge about AI
+- TEDx : 2025 Speaks "`Will AI ever wake up?`" [Youtube](https://youtu.be/tKC_KFTBomw?si=xLZV537qihxujCrI)
 
 </br>
 
