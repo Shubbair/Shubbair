@@ -1,7 +1,4 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="40px" src="social-images/l-logo.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer | Twitter" width="40px" src="social-images/tw-logo.svg" />][twitter]
-[<img align="left" alt="holisitc_developer | Telegram" width="40px" src="social-images/t-logo.png" />][telegram]
-
 
 
 </br></br>
